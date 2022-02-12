@@ -5,8 +5,11 @@ you can find more detail below.. <br>
 Competition Link: https://www.kaggle.com/c/titanic <br>
 My Submission Link: https://www.kaggle.com/m0hammednasser/titanic  (Top 10% in Leaderboard)
 ## Overview
+
 ##### This is the legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works.
 ##### The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
+
+<img src = 'https://upload.wikimedia.org/wikipedia/commons/6/6e/St%C3%B6wer_Titanic.jpg' >
 
 ## The Challenge
 ##### The sinking of the Titanic is one of the most infamous shipwrecks in history.
